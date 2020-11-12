@@ -4,3 +4,4 @@ Contrat:9997 - 8997 - 7997 - 6997
 Client:8080 - port par défaut
 Config-Server:9000
 Eureka-Server:9001
+zuul-server:9002
