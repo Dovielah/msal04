@@ -1,6 +1,6 @@
-Assure:9999 - 8999 - 7999
-Produit:9998
-Contrat:9997
+Assure:9999 - 8999 - 7999 - 6999
+Produit:9998 - 8998 - 7998 - 6998
+Contrat:9997 - 8997 - 7997 - 6997
 Client:8080 - port par défaut
 Config-Server:9000
 Eureka-Server:9001
